@@ -4,7 +4,7 @@
   "description": "This is a bootcamp assignment which is a full-stack app. It is a survey based freind match which will compare the input of the user with available pre-set data. The app is deployed in Heroku.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
